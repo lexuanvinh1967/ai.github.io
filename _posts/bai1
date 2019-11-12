@@ -1,0 +1,3 @@
+Bài toán 
+ Trong ví dụ, có 3 bản đồ đặc trƣng. Mỗi bản đồ đặc trưng được xác định bởi một tập 5x 5 trọng số chia sẻ, và một độ lệch chia sẻ duy nhất. Tức là ta có thể phát hiện 3 loại đặc trưng khác nhau, với mỗi đặc trưng được phát hiện trên toàn bộ ảnh.
+\item Mạng LeNet-5, sử dụng 6 bản đồ đặc trưng, mỗi bản đồ được liên kết đến một trường tiếp nhận cục bộ 5 x 5, để phát hiện các kí tự MNIST. 
